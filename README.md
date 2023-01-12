@@ -9,7 +9,8 @@ How to run:
     - dig @localhost www.google.com  
     - dig @localhost xkcd.com  
 
-Example screenshots:  
-  * dig @localhost www.google.com:  
-![image](https://user-images.githubusercontent.com/65783403/212160734-8e99d1c5-e437-43f3-a7e8-6fb277260e5e.png)  
-![image](https://user-images.githubusercontent.com/65783403/212160855-99265bba-8cc0-4f21-949f-2825db76f131.png)
+Example screenshots: dig @localhost www.google.com  
+  * Terminal 1:  
+![image](https://user-images.githubusercontent.com/65783403/212161447-9d9a3b0f-b3cd-4b00-9636-1a1e1c478896.png)  
+  * Terminal 2:  
+![image](https://user-images.githubusercontent.com/65783403/212161679-2fc6ba3e-9638-4aa2-9152-7d44450492bc.png)

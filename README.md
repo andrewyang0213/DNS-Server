@@ -5,7 +5,7 @@ A caching DNS server that parses a DNS request message, responds to queries for 
 How to run:  
   In one terminal: sudo java dns.DNSServer testZone.zone  
   Testing in second terminal:  
-    - dig @localhost test1.csci3363.net  
+    - dig @localhost test1.testZone.net  
     - dig @localhost www.google.com  
     - dig @localhost xkcd.com  
 
